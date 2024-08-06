@@ -15,4 +15,5 @@ The notebook implements classifier models such as:
 - Gradient Boosting Classifier
 - Voting Classifier
 
-With the usage of these classifiers and binary predictive modelling, 
+With the usage of these classifiers and binary predictive modelling, I have applied Data Wrangling/Mutation to discover an accurate model which can accurately predict whether a person has survived the sinking of the titanic.
+<b><i>score = 0.78468</i>
